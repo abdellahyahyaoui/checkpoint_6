@@ -5,3 +5,7 @@ class Usuario:
 
 
 usuario1 = Usuario("ABDELLAH", "contraseña198")
+
+
+print("Nombre de usuario:", usuario1.nombre_usuario)
+print("Contraseña:", usuario1.contraseña)
